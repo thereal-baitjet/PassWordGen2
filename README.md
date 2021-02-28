@@ -40,8 +40,6 @@ SOFTWARE.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=red&color=0D76A8)](https://www.linkedin.com/in/juan-santos-8380b0186/)
 
-[![Twitter badge](https://img.shields.io/twitter/url?logoColor=red&style=social&url=https%3A%2F%2F)](https://twitter.com/Baitjet4)
-
-[twitter badge](https://img.shields.io/twitter/url?logoColor=red&style=social&url=https%3A%2F%2Ftwitter.com%2FBaitjet4)
 
 ![twitterbadge](https://img.shields.io/twitter/url?logoColor=red&style=social&url=https%3A%2F%2Ftwitter.com%2FBaitjet4)
+
