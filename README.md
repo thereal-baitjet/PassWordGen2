@@ -7,6 +7,10 @@ and generate a password matching that criteria.
 
 ## Usage
 
+visit https://thereal-baitjet.github.io/PassWordGen2/ and enter some parameters 
+and generate a secure code.
+
+[screenshot](https://github.com/thereal-baitjet/PassWordGen2/blob/main/2021-02-27-18-58-thereal-baitjet.github.io.png)
 
 ## credits 
 
